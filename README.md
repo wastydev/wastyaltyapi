@@ -1,0 +1,2 @@
+# wastyaltyapi
+Discord Hızlı Altyapı
